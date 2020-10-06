@@ -1,5 +1,4 @@
-# czech-imports-exports
-Visualizations of Czech imports and exports figures using data from OEC.
+# Visualizations of Czech imports and exports figures using data from OEC for 2018.
 
 My objective was to create an easily understandable Excel spreadsheet on Czech Republic's imports and exports. 
 
